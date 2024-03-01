@@ -1,2 +1,2 @@
-# 📽️ReactJS_Movie
-ReactJS로 영화 웹 사이트 만들기
+# ReactJS_Study2
+ReactJS 기초 공부2
